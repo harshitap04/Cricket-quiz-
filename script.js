@@ -19,3 +19,4 @@ form.addEventListener('submit',(event)=>{
     const out=document.querySelector('#out')
     out.innerHTML=`${result} out of 5 is correct`
 })
+
